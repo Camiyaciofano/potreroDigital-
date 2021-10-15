@@ -1,0 +1,61 @@
+.ElementoA{
+  color: black;
+  font-size: 100%;
+  font-family: verdana;
+  padding-right: 35px;
+  margin: 0;
+  text-align: left;
+}
+
+
+.ElementoB {
+  font-family:verdana;
+  font-style: oblique;
+  color: grey;
+  display: inline-block;
+  border: 0;
+  width: 50%;
+  height: 70%;
+  font-size: 115%
+ }
+
+
+.ElementoC{
+color: grey;
+font-family:verdana;
+display: inline-block;
+margin: 0;
+border: 0;
+width: 50%;
+height: 70%;
+font-size: 120%;
+
+
+
+
+
+
+}
+.ElementoD {
+  color: grey;
+  font-family:verdana;
+  font-weight: 100
+
+  display: block;
+  margin: 0;
+  font-size: 110%
+
+
+}
+
+
+.ElementoE{
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 45%;
+
+
+
+
+}
